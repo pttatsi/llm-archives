@@ -22,4 +22,4 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 
 ### Evaluation for JOUR389W
 
-PUT YOUR EVALUATION HERE
+This tool is useful with archives because it can help navigating complex and large archival collections by creating detialed index cards which is one of the most tedious tasks for an archivist. My news organization could benefit from uisng a collection of these across archives, because like the unstructured information assignment, this is a great way to get that information that can be repurposed and recontextualized structured for future reference. 
